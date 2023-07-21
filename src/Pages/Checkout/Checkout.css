@@ -1,0 +1,59 @@
+.BillForm {
+  background: #E9FFF2;
+  padding: 20px;
+  padding-top: 30px;
+}
+
+.BillForm input {
+  height: 45px;
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 5px 10px;
+  border: 1px solid #DCDAE3;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  color: #6F6B80;
+}
+
+.BillForm select {
+  height: 45px;
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 5px 10px;
+  background-color: #fff;
+  border: 1px solid #DCDAE3;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  color: #6F6B80;
+}
+
+.BillCouRSe {
+  margin-bottom: 25px;
+}
+
+.row.blUEBack {
+  background: #231F40;
+  color: #fff;
+  padding: 15px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: 0;
+}
+
+.Dummy hr {
+  margin-top: 10px;
+  color: #eaeaea;
+}
+
+.CheckBillIng .form-control input {
+  background: #231F40 !important;
+}
+
+.row.blUEBack .input-group input {
+  background: #231F40;
+  color: #fff !important;
+}
+
+.BillForm.mt-3.mb-4 input {
+  color: #121215;
+}

@@ -1,0 +1,45 @@
+.SuceSSBoxCouRs {
+    text-align: center;
+    background: transparent linear-gradient(180deg, #E4FFEE 0%, #B1F5CA 100%) 0% 0% no-repeat padding-box;
+    padding: 65px;
+    border-radius: 5px;
+}
+
+.SuceSSBoxCouRs h4 {
+    margin-top: 25px;
+    font-size: 33px;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.SuceSSBoxCouRs h5 {
+    font-size: 30px;
+    color: #231F40;
+    font-weight: 400;
+  }
+
+.SuccImg img {
+    width: 90px;
+}
+.SuccImg {
+    text-align: center;
+    border: 6px solid #107B38;
+    padding: 20px;
+    width: 125px;
+    border-radius: 50%;
+    display: flex;
+    align-content: center;
+    margin: auto;
+    background: #fff;
+  }
+  .SuceeLink {
+    text-align: center;
+    color: #141517;
+  }
+  .SuceeLink a {
+    color: #141517;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 501;
+  }

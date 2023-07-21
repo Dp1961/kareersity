@@ -1,0 +1,85 @@
+.CartTablE button {
+    background: #fff;
+    border-radius: 44px;
+    border: 2px solid #9997A0;
+    color: #9997A0;
+  }
+  .CartTablE button {
+    background: #fff;
+    border-radius: 44px;
+    border: 2px solid #9997A0;
+    color: #9997A0;
+    padding: 3px;
+width: 34px;
+  }
+  .ConteNt h4 {
+    color: #231F40;
+    font-size: 20px;
+  }
+  .ConteNt .d-flex p {
+    border-right: 1px solid #107B38;
+  }
+  .ConteNt .d-flex p {
+    padding: 1px 11px;
+    margin-top: 10px;
+    color: #231F40;
+  }
+  .table th {
+    font-size: 25px;
+    color: #231F40 !important;
+    border-bottom: 2px solid #E4E2F0;
+    font-weight: 600;
+
+  }
+  .Rate {
+    font-size: 20px;
+    color: #231F40;
+  }
+  .table {
+    border: transparent;
+  }
+  .table-striped > tbody > tr:nth-of-type(2n+1) > * {
+    --bs-table-color-type: none;
+    --bs-table-bg-type: #fff;
+  }
+  .SidePURBTn button.BluEBtn {
+    background: #231F40;
+    width: 100%;
+    color: #fff;
+    border: #231F40;
+    padding: 15px 10px;
+    margin-bottom: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    border-radius: 7px;
+  
+  }
+  .BluEBtn span {
+    margin-left: 125px;
+  }
+  .SidePURBTn button.grnBtn {
+    background: #107B38;
+    width: 100%;
+    color: #fff;
+    border: #107B38;
+    padding: 15px 10px;
+    margin-bottom: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    border-radius: 7px;
+  
+  }
+  .SidePURBTn button.grnBtn:hover {
+    background: #231F40;
+    border: #231F40;
+ 
+  
+  }
+
+  @media (min-width: 0px) and (max-width: 767px) {
+    .SidePURBTn button.BluEBtn {
+      font-size: 25px;
+ 
+    }
+
+  }

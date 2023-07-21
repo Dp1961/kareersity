@@ -1,0 +1,19 @@
+.BloGSestion.pt-5.pb-5 hr {
+    margin-top: 0;
+    margin-bottom: 25px;
+  }
+  .BLogContent h5 a {
+    color: #231F40;
+  }
+  .BLogContent h5 a:hover {
+    color: #107B38;
+  }
+  .blogdeTialContEnt.pt-5.pb-5 h4 {
+    color: #231F40;
+  }
+  .BLogContent.detail h5 a {
+    font-size: 16px;
+  }
+  .BLogContent h5 a {
+    font-size: 17px;
+  }

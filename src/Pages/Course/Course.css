@@ -1,0 +1,627 @@
+.CouRSE.PAGE .PageHEaders {
+    height: 250px;
+}
+
+.FIlTcou {
+    background: #fff;
+    border: 1px solid #E1E1E1;
+    padding: 15px;
+    position: relative;
+    top: -100px;
+}
+
+.FIlTcou h4 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 15px;
+    color: #231F40;
+}
+
+.EdConT p {
+    padding-top: 5px;
+  }
+
+.FILFoRm.d-flex label {
+    color: #231F40;
+}
+
+.FILFoRm.d-flex input {
+    /* height: 25px; */
+    width: 20px;
+    margin-right: 20px;
+}
+
+.FILFoRm.d-flex p {
+    margin-left: 100px;
+    padding-top: 5px;
+}
+
+.FILFoRm.d-flex {
+    line-height: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.FIlTcou.RES {
+    background: transparent;
+    border: none;
+    padding: 0;
+}
+
+.MainCOurSEdIV.CouR {
+    width: 100% !important;
+    margin-left: 0;
+}
+
+.COurseConTEnt.Cour {
+    border: 1px solid #DCDAE3;
+}
+
+.COurseConTEnt.Cour h5 a {
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.FinAlDIv.d-flex.CouR a {
+    margin-left: auto;
+}
+
+.SCetionCourse.d-flex.CouR h4 {
+    font-size: 20px;
+    margin-right: auto;
+}
+
+.FinAlDIv.d-flex.CouR.SAP p {
+    font-size: 12px;
+    padding-top: 10px;
+    width: 115px;
+}
+
+.FinAlDIv.d-flex.CouR.SAP a {
+    height: 35px;
+    margin-top: 10px;
+    background: #fff;
+    color: #107B38 !important;
+    padding: 5px 10px;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid #107B38;
+    border-radius: 5px;
+
+}
+
+.FinAlDIv.d-flex.CouR.SAP a:hover {
+    background-color: #107B38;
+    color: #fff !important;
+}
+
+.COurseConTEnt.Cour h5 a:hover {
+    color: #107B38;
+}
+
+.COurseConTEnt.Cour h5 a {
+    color: #231F40;
+}
+
+.FIlTcou hr {
+    margin: 12px 0;
+    color: #E1E1E1;
+}
+
+.SoRtForm {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    float: right;
+}
+
+.SoRtForm label {
+    margin-bottom: 10px;
+}
+
+.SoRtForm select {
+    height: 42px;
+    width: 134px;
+    background: #fff;
+    border: 1px solid #6F6B80;
+    border-radius: 5px;
+}
+
+.FinAlDIv.d-flex.CouR p {
+    margin-bottom: 5px;
+}
+
+.PageHEaders.COUrseLi {
+    height: 350px;
+}
+
+.PageHEaders.COUrseLi h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    line-height: 40px;
+    font-size: 35px;
+}
+
+.PageHEaders.COUrseLi p {
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.d-flex.CL p {
+    border-right: 2px solid #107B38;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.d-flex.CL p:first-child {
+    padding-left: 0;
+}
+
+.d-flex.CL p:last-child {
+    border-right: none;
+}
+
+.d-flex.CL p i {
+    color: #107B38;
+    font-size: 22px;
+}
+
+.d-flex.CL p.star i {
+    color: #FFC107 !important;
+}
+
+.nav.nav-tabs {
+    background: #E9FFF2;
+    padding: 10px 15px !important;
+    text-align: center;
+    justify-content: center;
+}
+
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+    color: #231F40;
+    background-color: transparent;
+    border-radius: 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    border: none;
+    border-bottom: 2px solid #107B38;
+    border-bottom-color: rgb(16, 123, 56);
+    font-weight: 500;
+}
+
+.nav-tabs .nav-link:focus,
+.nav-tabs .nav-link:hover {
+    color: #231F40;
+    background-color: transparent;
+    border-radius: 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    border: none !important;
+    border-bottom: 2px solid #107B38 !important;
+    font-weight: 500;
+}
+
+.SCetionCourse.d-flex.CouR h4 {
+    margin-top: 0;
+}
+
+.nav.nav-tabs li button {
+    color: #231F40;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.OveRView {
+    color: #231F40;
+}
+
+.OveRView.pt-4 h4 {
+    font-size: 25px;
+}
+
+.OveRView p {
+
+    line-height: 27px;
+}
+
+.OveRView.pt-4 a {
+    color: #107B38;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+
+.LearNList {
+    list-style: none;
+}
+
+.LearNList li i {
+    margin-right: 10px;
+    color: #107B38;
+}
+
+.LearNList li {
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.CorLiSt.pt-5.pb-5 hr {
+    margin-top: 0;
+    color: #DCDAE3;
+}
+
+.CorLiSt.pt-5.pb-5 {
+    color: #231F40;
+}
+
+.ValuCoN p {
+    line-height: 26px;
+}
+
+.EdConT {
+    background: #E9FFF2;
+    padding: 16px;
+}
+
+.EdConT h4 {
+    font-size: 24px;
+}
+
+.EdConT h6 {
+    font-weight: 400;
+}
+
+.ECLD.d-flex {
+    background: #D4FBE4;
+    padding: 5px 7px;
+}
+
+.ECLD.d-flex p {
+    margin-bottom: 0;
+}
+
+.ECLD.d-flex p {
+    margin-bottom: 0;
+    border-right: 1px solid #107B38;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.ECLD.d-flex p i {
+    color: #FFC107;
+}
+
+.ECLD.d-flex p:last-child {
+    border-right: none;
+}
+
+.GrnRati {
+    background: #107B38;
+    color: #fff;
+    padding: 30px 20px;
+    border-radius: 5px;
+    text-align: center;
+
+}
+
+.GrnRati h3 {
+    font-size: 40px;
+}
+
+p.staR.d-flex i {
+    text-align: center;
+    color: #FFC107;
+}
+
+.staR.d-flex {
+    justify-content: center;
+}
+
+.staR.d-flex {
+    justify-content: center;
+    margin-bottom: 5px;
+}
+
+.GrnRati h6 {
+    font-weight: 400;
+}
+
+.progress,
+.progress-stacked {
+    --bs-progress-bar-bg: #107B38;
+    background-color: #E9E9E9 !important;
+}
+
+.RatinGBAr p i {
+    color: #FFC107;
+}
+
+.CommConT h4 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.CommConT h5 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.StarFIVe {
+    color: #FFC107;
+    text-align: end;
+    font-size: 25px;
+}
+
+.CommConT p {
+    font-size: 15px;
+    margin-top: 10px;
+    line-height: 30px;
+}
+
+.CommCL a {
+    color: #107B38;
+    font-weight: 600;
+}
+
+.CommCL hr {
+    margin-top: 20px !important;
+}
+
+.RightCL {
+    margin-top: -340px;
+    text-align: center;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #DCDAE3;
+    border-radius: 5px;
+    height: 1285px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+.CLrighTImg img {
+    border-radius: 5px;
+}
+
+.lEft.HRS {
+    margin-left: auto;
+    background: #FFE6E6;
+    color: #D80724;
+    padding: 8px;
+}
+
+.RightCLcont.d-flex h2 {
+    color: #107B38;
+    font-weight: 700;
+    margin-right: 15px;
+}
+
+.RightCLcont.d-flex h3 {
+    color: #6F6B80;
+    font-size: 21px;
+    padding-top: 7px;
+}
+
+.GrnBtNN button {
+    background: #107B38;
+    border: #107B38;
+    color: #fff;
+    padding: 10px;
+    width: 100%;
+    font-size: 24px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.BdrstNN button {
+    background: #fff;
+    border: 1px solid #107B38;
+    color: #107B38;
+    padding: 10px;
+    width: 100%;
+    font-size: 24px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.Hrs {
+    margin-left: auto;
+    padding-top: 7px;
+    color: #231F40;
+}
+
+.ClRConteNt h4 {
+    color: #231F40;
+}
+
+.ACCclRight .accordion-button:not(.collapsed) {
+    background: #fff !important;
+    border-left: none !important;
+    color: #107B38;
+    font-size: 19px;
+
+
+}
+
+.ACCclRight .accordion-item {
+    margin-bottom: 0;
+}
+
+.ACCclRight .accordion h2.accordion-header {
+    color: #107B38 !important;
+}
+
+.ACCTim {
+    margin-left: auto;
+    font-size: 20px;
+}
+
+.ACCTim i.ggrn {
+    color: #107B38;
+}
+
+.ACCTim .accordion-collapse.collapse.show .accordion-body {
+    background: #fff;
+}
+
+.AccHeA h6 {
+    line-height: 30px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.FORCl {
+    padding: 15px;
+}
+
+.FORCl .couRSeImg {
+    width: 285px;
+}
+
+.FORCl .couRSeImg img {
+    transform: scale(2);
+    margin-top: 45px;
+}
+
+.FORCl .couRSeImg {
+    width: 285px;
+    height: 100%;
+    overflow: hidden;
+}
+
+.FORCl .COurseConTEnt {
+    border: 1px solid #DCDAE3;
+    border-radius: 0px 5px 5px 0;
+}
+
+.ACCclRight .accordion-button:not(.collapsed) {
+    color: var(--bs-accordion-active-color);
+    background-color: #fff !important;
+}
+.PlyIcon {
+    position: relative;
+    top: -118px;
+    width: 50px;
+    height: 50px;
+    padding: 0px 7px;
+    background: #fff;
+    border: 2px solid #107B38;
+    border-radius: 50%;
+    font-size: 26px;
+    margin-top: -48px;
+    color: #107B38;
+    left: 44%;
+  }
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+    .FinAlDIv.d-flex a {
+        font-size: 12px;
+    }
+
+    .FinAlDIv.d-flex.CouR.SAP a {
+        padding: 8px 3px;
+    }
+
+    .FinAlDIv.d-flex.CouR.SAP a {
+        font-size: 12px;
+      }
+      .nav-tabs .nav-link {
+        margin-right: 5px;
+      }
+      .nav.nav-tabs li button {
+        font-size: 14px;
+      }
+      .FORCl .couRSeImg img {
+        transform: scale(2);
+        margin-top: 45px;
+        height: 110px;
+        margin-left: 43px;
+      }
+      
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .PageHEaders.COUrseLi {
+        height: 425px;
+    }
+
+    .nav.nav-tabs {
+        padding: 10px 5px !important;
+    }
+    .PageHEaders.COUrseLi p {
+        font-size: 14px;
+    }
+    .FORCl .couRSeImg {
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+      }
+      .MainCOurSEdIV.d-flex {
+        display: inline-block !important;
+      }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .RightCL{
+        margin-top: 0;
+    }
+}
+
+@media (min-width: 575px) and (max-width: 767px) {
+    .PageHEaders.COUrseLi p {
+        font-size: 13px;
+    }
+}
+
+@media (min-width: 0px) and (max-width: 574px) {
+    .PageHEaders.COUrseLi h2 {
+        font-size: 25px;
+    }
+
+    .PageHEaders.COUrseLi {
+        height: 420px;
+    }
+
+    .PageHEaders.COUrseLi p {
+        font-size: 15px;
+    }
+    .FORCl .couRSeImg {
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+      }
+      .MainCOurSEdIV.d-flex {
+        display: inline-block !important;
+      }
+      
+}
+@media (min-width: 0px) and (max-width: 513px) {
+    .FORCl .couRSeImg img {
+        height: 57%;
+      }
+      .CommConT h4 {
+        font-size: 18px;
+      }
+      .CommConT h5 {
+        font-size: 15px;
+      }
+      .PageHEaders.COUrseLi {
+        height: 468px;
+      }
+}
+@media (min-width: 0px) and (max-width: 375px) {
+    .ECLD.d-flex {
+        display: inline-block !important;
+      }
+      .ECLD.d-flex p {
+        border-right: none;
+      }
+      .PageHEaders.COUrseLi p {
+        font-size: 14px;
+      }
+}

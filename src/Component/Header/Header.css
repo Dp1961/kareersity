@@ -1,0 +1,720 @@
+.header {
+  background: #F8F8F8;
+}
+
+.CallNUmber p,
+.MAilConTEnet p {
+  margin-bottom: 0;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+.CallIcon i {
+  color: #107B38;
+  font-size: 20px;
+  padding: 5px 8px;
+}
+
+.CallIcon {
+  border: 1px solid #075792;
+  border-radius: 50px;
+
+  margin-top: 9px;
+  background-color: #fff;
+}
+
+.hTOp {
+  padding: 10px 5px;
+}
+
+.CallNUmber,
+.MAilConTEnet {
+  margin-left: 10px;
+}
+
+.MailIcons i {
+  font-size: 18px;
+  color: #107B38;
+  padding: 3px 4px;
+  margin-top: -6px;
+}
+
+.MailIcons {
+  border: 1px solid #075792;
+  border-radius: 50px;
+  height: 30px;
+  width: 30px;
+  padding: 3px;
+  margin-top: 9px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+}
+
+.MailUS {
+  justify-content: center;
+}
+
+.CallNUmber a,
+.MAilConTEnet a {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  color: #231F40;
+}
+
+.form-control.search {
+  border-radius: 50px;
+  border-right: none;
+  border: 1px solid #BCBAC4;
+}
+
+.btn.btn-outline-secondary {
+  border-radius: 50px;
+  border: 1px solid #BCBAC4;
+  border-left: none;
+  background: #fff;
+}
+
+.notification {
+  background-color: #fff;
+  text-decoration: none;
+  padding: 0px 8px;
+  position: relative;
+  display: inline-block;
+  border-radius: 2px;
+  color: #107B38;
+  border-radius: 50%;
+  border: 1px solid #085893;
+  font-size: 20px;
+  margin-top: 3px;
+  padding-bottom: 6px;
+}
+
+.Icons a {
+  margin-right: 9px;
+}
+
+.notification .badge {
+  position: absolute;
+  top: -8px;
+  right: -4px;
+  padding: 2px 6px;
+  border-radius: 50%;
+  background-color: #107B38;
+  color: white;
+}
+
+.Icons.ml-2 {
+  margin-left: 8px;
+}
+
+.SignUpBtn {
+  margin-left: 15px;
+  background: #107B38;
+  padding: 7px 22px;
+  cursor: pointer;
+  margin-top: 7px;
+  border-radius: 5px;
+}
+
+.SignUpBtn:hover {
+  background: #231F40;
+}
+
+.btn.btn-outline-secondary {
+  font-size: 20px;
+  padding-top: 0;
+  color: #107B38;
+}
+
+.SignUpBtn a {
+  color: #fff;
+  font-size: 18px;
+  font-family: 'Urbanist', sans-serif;
+  font-weight: 600;
+}
+
+.SignUpBtn a i {
+  font-size: 18px;
+}
+
+.input-group {
+  padding-top: 6px;
+}
+
+.hEAderIcons.d-flex {
+  padding-top: 8px;
+}
+
+.CallNUmber a:hover {
+  color: #085893;
+}
+
+.MAilConTEnet a:hover {
+  color: #085893;
+}
+
+/* menu */
+.MEnu ul li {
+  display: inline;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+
+.MEnu {
+  background: #107B38;
+}
+
+.menu ul li a {
+  padding-right: 85px;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+}
+
+.menu ul li a {
+
+  color: #fff;
+}
+
+.menu {
+  padding-top: 15px;
+}
+
+ul.justify-content-center.d-flex {
+  padding-left: 0px;
+}
+
+.menu ul li:nth-child() {
+  padding-right: 0px;
+}
+
+.justify-content-center.d-flex .socialMEDia li a {
+  padding: 10px;
+}
+
+.BTNtopHead {
+  background: transparent;
+  border: none;
+  color: #fff;
+}
+
+.popImg {
+  width: 70%;
+  overflow: hidden;
+  position: relative;
+  height: 650px;
+}
+
+.popImg img {
+  transform: scale(1.4);
+  position: absolute;
+  top: 90px;
+  height: 476px;
+  left: 62px;
+}
+
+.PopConteNt {
+  text-align: center;
+  padding: 25px 10px;
+  width: 50%;
+  padding-top: 40px;
+}
+
+.LogO img {
+  width: 185px;
+  margin-bottom: 10px;
+}
+
+.PopConteNt h2 {
+  font-size: 25px;
+  margin-bottom: 0;
+  font-weight: 700;
+  font-weight: 500;
+  padding-top: 9px;
+
+}
+
+.modal-body {
+  padding: 0px;
+}
+
+.POPrigh p {
+  font-size: 16px;
+}
+
+/* .POPrigh.pt-2 input {
+  margin-left: 30px;
+  margin-right: 5px;
+} */
+
+.POPrigh.pt-2 label {
+  font-size: 17px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+
+.POPrigh.pt-2 .form-control {
+  margin-right: 0;
+  border-right: none;
+  height: 45px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.input-group-text {
+  border-left: none;
+  background-color: #fff;
+
+}
+
+.input-group-text {
+  font-size: 24px;
+  color: #107B38;
+}
+
+.Fpas {
+  margin-left: auto;
+}
+
+.d-flex.signup label {
+  color: #B7B6BD;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.Fpas a {
+  color: #231F40;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.Fpas a:hover {
+  color: #107B38;
+}
+
+.POPrigh.pt-2 button {
+  background: #107B38;
+  border: #107B38;
+  color: #fff;
+  padding: 5px 26px;
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 20px;
+  width: 91%;
+  margin-left: 9% !important;
+  text-transform: uppercase;
+  font-weight: 600;
+  border-radius: 5px;
+}
+
+.POPrigh.OnE.pt-2 label {
+  font-weight: 400;
+  line-height: 28px;
+  font-size: 18px;
+}
+
+.pt-5.SUbLow p {
+  margin-bottom: 0;
+}
+
+.pt-5.SUbLow a {
+  color: #107B38;
+  font-size: 15px;
+}
+
+.SignUpBtn button {
+  font-weight: 600;
+  font-size: 17px;
+}
+
+.LogO {
+  padding-bottom: 65px;
+}
+
+.POPrigh.OnE.pt-2 input {
+  margin-left: 0;
+}
+
+/* ------------------mobile menu------------------------------- */
+.mobile-menu {
+  display: none;
+}
+
+/* .justify-content-center.d-flex li a:hover {
+  color: #085893;
+} */
+
+/* ----------------------------------------------------------------------------------- */
+/* media */
+/* ---------------------------------------------------------------------------------- */
+@media (min-width: 1700px) and (max-width: 1800px) {
+  .bannerContenT a {
+    margin-left: -310px;
+  }
+
+  .bannerContenT h1 {
+    margin-left: 0;
+  }
+
+  .bannerContenT h2 {
+    margin-left: 0;
+  }
+
+}
+
+@media (min-width: 1600px) and (max-width: 1699px) {
+  .bannerContenT a {
+    margin-left: -310px;
+  }
+
+  .bannerContenT h1 {
+    margin-left: -30px;
+  }
+
+  .bannerContenT h2 {
+    margin-left: -30px;
+  }
+
+}
+
+@media (min-width: 1400px) and (max-width: 1599px) {
+  .bannerContenT a {
+    margin-left: -340px;
+  }
+
+  .bannerContenT h1 {
+    margin-left: -95px;
+  }
+
+  .bannerContenT h2 {
+    margin-left: -95px;
+  }
+}
+
+@media (min-width: 1300px) and (max-width: 1399px) {
+  .bannerContenT a {
+    position: relative;
+    left: auto;
+    right: 0;
+    margin-left: -420px;
+  }
+
+  .bannerContenT h1 {
+    margin-left: -50px;
+  }
+
+  .bannerContenT h2 {
+    margin-left: -50px;
+  }
+
+}
+
+@media (min-width: 1200px) and (max-width: 1299px) {
+  .bannerContenT a {
+    position: relative;
+    left: auto;
+    right: 0;
+    margin-left: -450px;
+  }
+
+  .bannerContenT h1 {
+    margin-left: -95px;
+  }
+
+  .bannerContenT h2 {
+    margin-left: -95px;
+  }
+
+}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+
+  .CallNUmber,
+  .MAilConTEnet {
+    margin-left: 6px;
+  }
+
+  .SignUpBtn button {
+    font-weight: 604;
+    font-size: 14px;
+  }
+
+  .SignUpBtn {
+    margin-left: 10px;
+  }
+
+  .menu ul li a {
+    padding-right: 60px;
+  }
+}
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .menu ul li a {
+    padding-right: 32px;
+  }
+
+  .modal-content {
+    left: -50% !important;
+
+  }
+
+  .HeADcaLL.d-flex {
+    display: none !important;
+  }
+
+  .SignUpBtn button {
+    font-weight: 700;
+    font-size: 14px;
+  }
+
+  .bannerContenT h1 {
+    color: #107B38;
+    font-size: 60px;
+    margin-top: -350px;
+    margin-left: -24px;
+  }
+
+  .bannerContenT h2 {
+    margin-left: -24px;
+  }
+
+  .bannerContenT a {
+    position: relative;
+    left: auto;
+    right: 0;
+    margin-left: -294px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1099px) {
+  .bannerContenT h1 {
+    font-size: 60px;
+    margin-top: -350px;
+    margin-left: -85px;
+  }
+
+  .bannerContenT h2 {
+
+    margin-left: -85px;
+  }
+
+  .bannerContenT a {
+    position: relative;
+    left: auto;
+    right: 0;
+    margin-left: -375px;
+  }
+
+}
+
+@media (min-width: 0px) and (max-width: 991px) {
+  ul.justify-content-center.d-flex {
+    padding-left: 0px;
+    display: none !important;
+  }
+
+  .modal-content {
+    left: -25% !important;
+    width: 150% !important;
+  }
+
+  .POPrigh.pt-2 label {
+    width: 65%;
+    text-align: initial;
+  }
+  .Fpas {
+    margin-left: -78px;
+    margin-top: -3px;
+  }
+
+  .col-lg-2.CallHaed {
+    display: none;
+  }
+
+  .MEnu {
+    background: #107B38;
+    height: 50px;
+  }
+
+  .mobile-menu {
+    position: absolute;
+    display: block;
+    top: 155px;
+    right: 150px;
+    background-color: transparent;
+    color: #fff;
+    border: none;
+    font-size: 35px;
+    transition: all 0.3s ease;
+
+  }
+
+  .mobile-lIstmeNu {
+    display: grid;
+    position: absolute;
+    background: #107B38;
+    z-index: 111;
+    padding: 15px;
+    padding-left: 32px !important;
+    line-height: 45px;
+    right: 0;
+    width: 50%;
+    top: 23%;
+  }
+
+  .HeADcaLL.d-flex {
+    display: none !important;
+  }
+
+  .Logo {
+    text-align: center;
+    margin-bottom: 25px;
+  }
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+  .mobile-menu {
+    top: 147px;
+  }
+
+  .mobile-lIstmeNu {
+    top: 20%;
+
+  }
+  .popImg {
+    display: none;
+  }
+  .modal-content {
+    left: 0 !important;
+    width: 100% !important;
+  }
+  .PopConteNt {
+    width: 100%;
+  }
+  .POPrigh.pt-2 label {
+    width: auto;
+    text-align: initial;
+  }
+  .Fpas {
+    margin-left: auto;
+    margin-top: -3px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 575px) {
+  .mobile-menu {
+    top: 201px;
+    right: 39px;
+  }
+  .Fpas {
+    margin-left: auto;
+    margin-top: -3px;
+  }
+  .popImg {
+    display: none;
+  }
+  .modal-content {
+    left: 0 !important;
+    width: 100% !important;
+  }
+  .PopConteNt {
+    width: 100%;
+  }
+  .POPrigh.pt-2 label {
+    width: auto;
+    text-align: initial;
+  }
+
+  .mobile-lIstmeNu {
+    top: 25%;
+  }
+
+  .SignUpBtn button {
+    font-weight: 600;
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 0px) and (max-width: 480px) {
+  .mobile-menu {
+    top: 201px;
+    right: 39px;
+  }
+
+  .mobile-lIstmeNu {
+    top: 25%;
+  }
+
+  .SignUpBtn button {
+    font-weight: 600;
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 0px) and (max-width: 480px) {
+  .mobile-menu {
+    top: 201px;
+    right: 39px;
+  }
+
+  .mobile-lIstmeNu {
+    top: 25%;
+  }
+
+  .SignUpBtn button {
+    font-weight: 600;
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 0px) and (max-width: 400px) {
+  .mobile-menu {
+    top: 202px;
+    right: 39px;
+  }
+}
+
+@media (min-width: 0px) and (max-width: 391px) {
+  .mobile-menu {
+    top: 217px;
+    right: 39px;
+  }
+
+}
+
+@media (min-width: 0px) and (max-width: 391px) {
+  .mobile-lIstmeNu {
+    top: 31%;
+  }
+
+}
+
+.PopCheCkBOX input {
+  margin-bottom: 20px;
+}
+
+.POPrigh.pt-2 input[type="radio"] {
+  border-radius: 5px;
+  height: 18px;
+  width: 25px;
+}
+
+/* modal */
+.modal-content {
+  left: -38%;
+  width: 200%;
+  min-height: 652px;
+}
+@media (min-width: 320px) and (max-width: 379px) {
+  .POPrigh.pt-2 label {
+    width: 67%;
+    text-align: initial;
+  }
+  .Fpas {
+    margin-left: -81px;
+    margin-top: -3px;
+  }
+}

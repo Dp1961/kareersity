@@ -1,0 +1,572 @@
+.SIdeBar {
+  background: #231F40;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+.flex-column.nav a {
+  color: #fff;
+  font-size: 21px;
+  margin-bottom: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+.Active.nav-link {
+  background: #107B38;
+  border-radius: 4px;
+}
+
+.flex-column.nav a:hover {
+  background-color: #107B38;
+  border-radius: 4px;
+}
+
+.SideContEnt h6 {
+  font-size: 22px;
+}
+
+.BoxSideCon {
+  border: 1px solid #B8B7C1;
+  padding: 30px;
+  border-radius: 3px;
+  margin-top: 20px;
+}
+
+.BoxSideCon h4 {
+  color: #231F40;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.BoxSideCon h4 i {
+  color: #FF8800D9;
+  font-size: 35px;
+}
+
+.BoxSideCon h4 span {
+  color: #107B38;
+  font-weight: 700;
+}
+
+.d-flex.SuB p {
+  font-weight: 500;
+  font-size: 17px;
+}
+
+.d-flex.SuB a {
+  margin-left: auto;
+  border: 1px solid #107B38;
+  padding: 8px 10px;
+  color: #231F40;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+  border-radius: 3px;
+}
+
+.d-flex.SuB a:hover {
+  color: #fff;
+  background: #231F40;
+  border: #231F40;
+}
+
+.statUS {
+  background: #E9FFF2;
+  padding: 7px;
+  margin: 5px 0;
+}
+
+.progress,
+.progress-stacked {
+  --bs-progress-bar-bg: #107B38;
+  background-color: transparent;
+}
+
+.statUS h6 {
+  font-size: 14px;
+  color: #6F6B80;
+}
+
+.statUS h6.Stastu {
+  margin-left: auto;
+}
+
+.COurseConTEnt.Cour p {
+  color: #231F40;
+}
+
+.BTNCerti {
+  background: #fff;
+  border: 1px solid #107B38;
+  margin-right: auto;
+  padding: 7px 5px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  color: #107B38;
+  border-radius: 3px;
+}
+
+.BTNCerti:hover {
+  background: #107B38;
+  color: #fff;
+}
+
+.MainCOurSEdIV.CouR.Comp {
+  margin-bottom: 10px;
+}
+
+.MainCOurSEdIV.CouR.Comp .SCetionCourse h6 {
+  margin: auto;
+  padding-top: 0;
+}
+
+.MainCOurSEdIV.CouR.Comp .SCetionCourse p {
+  padding-top: 15px;
+}
+
+.OrderTABle table th {
+  font-size: 17px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  background: #231F40;
+  border-radius: 1px;
+  color: #fff !important;
+  padding: 10px;
+}
+
+.OrderTABle table tbody tr {
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+
+.OrderTABle table tbody td {
+  border: 1px solid #B8B7C1;
+  border-right: none;
+  border-left: none;
+  border-radius: 10px;
+}
+
+.OrderTABle table tbody td:first-child {
+
+  border-left: 1px solid #B8B7C1;
+}
+
+.OrderTABle table tbody td:last-child {
+
+  border-right: 1px solid #B8B7C1;
+}
+
+.table-hover>tbody>tr:hover>* {
+  --bs-table-bg-state: none;
+}
+
+.OrderTABle table tbody td button {
+  border: 1px solid #107B38;
+  padding: 1px 15px;
+  font-size: 25px;
+  color: #107B38;
+  background: #fff;
+}
+
+.table-sm> :not(caption)>*>* {
+  padding: 1.2rem 0.5rem;
+}
+
+.SuceSSBox {
+  background: #107B38;
+  color: #fff !important;
+  padding: 35px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  border-radius: 5px;
+}
+
+.SuceSSBox i {
+  font-size: 75px;
+}
+
+.SuceSSBox h4 {
+  margin-top: 19px;
+  font-size: 30px;
+}
+
+.SuceSSBox h5 {
+  font-size: 30px;
+  margin-top: 21px;
+}
+.QUEstion.mt-3 {
+  padding: 20px;
+border: 1px solid #B8B7C1;
+border-radius: 5px;
+font-family: 'Roboto', sans-serif;
+font-weight: 500;
+}
+.QUEstion.mt-3 label {
+  margin-left: 10px;
+  font-size: 18px;
+}
+.QUEstion.mt-3 p {
+  font-size: 18px;
+}
+.Btn-Grn button {
+  margin-top: 27px;
+  background: #107B38;
+  color: #fff;
+  border: #107B38;
+  padding: 10px 45px;
+  font-size: 20px;
+  border-radius: 5px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+.GrnBGTemp {
+  width: 80%;
+  align-self: center;
+}
+
+
+.progressss {
+  width: 150px;
+  height: 150px !important;
+  float: left; 
+  line-height: 150px;
+  background: none;
+  margin: 20px;
+  box-shadow: none;
+  position: relative;
+}
+.progressss:after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  border: 12px solid #fff;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.progressss>span {
+  width: 50%;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  z-index: 1;
+}
+.progressss .progress-left {
+  left: 0;
+}
+.progressss .progress-bar {
+  width: 100%;
+  height: 100%;
+  background: none;
+  border-width: 12px;
+  border-style: solid;
+  position: absolute;
+  top: 0;
+}
+.progressss .progress-left .progress-bar {
+  left: 100%;
+  border-top-right-radius: 80px;
+  border-bottom-right-radius: 80px;
+  border-left: 0;
+  -webkit-transform-origin: center left;
+  transform-origin: center left;
+}
+.progressss .progress-right {
+  right: 0;
+}
+.progressss .progress-right .progress-bar {
+  left: -100%;
+  border-top-left-radius: 80px;
+  border-bottom-left-radius: 80px;
+  border-right: 0;
+  -webkit-transform-origin: center right;
+  transform-origin: center right;
+  animation: loading-1 1.8s linear forwards;
+}
+.progressss .progress-value {
+  width: 90%;
+  height: 90%;
+  border-radius: 50%;
+  background: #fff;
+  font-size: 24px;
+  color: #231F40;
+  line-height: 135px;
+  text-align: center;
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  font-family: 'Roboto', sans-serif;
+  font-size: 42px;
+  font-weight: 500;
+}
+
+.progressss.blue .progress-left .progress-bar {
+  animation: loading-2 1.5s linear forwards 1.8s;
+}
+.progressss.yellow .progress-bar {
+  border-color: #107B38;
+}
+.progressss.yellow .progress-right .progress-bar {
+  animation: loading-3 1.8s linear forwards;
+}
+.progressss.yellow .progress-left .progress-bar {
+  animation: none;
+}
+@keyframes loading-1 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+  }
+}
+
+@keyframes loading-3 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+  }
+}
+.Direct.d-flex {
+  background: #D4FBE4;
+  padding: 23px;
+  border-radius: 5px;
+}
+.blueBox {
+  padding: 75px;
+  text-align: center;
+  background: #E5F4FF;
+  border-radius: 5px;
+  font-size: 59px;
+  margin-bottom: 20px;
+}
+.blueBox h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+}
+.blueBox h6 {
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+.BookIcon.mb-2 {
+  background: #085893;
+  border-radius: 50%;
+  padding-top: 24px;
+  padding-bottom: 39px;
+  color: #fff;
+}
+.blueBox.orange {
+  background: #FCEEE4;
+}
+.BookIcon.orange.mb-2 {
+  background: #CF6A1C;
+}
+.blueBox.grn {
+  background: #E9FFF2;
+}
+.BookIcon.grn.mb-2 {
+  background: #107B38;
+}
+.blueBox.vilot {
+  background: #F2E5FF;
+}
+.BookIcon.vilot.mb-2 {
+  background: #7D0893;
+}
+.ProFileForM {
+  border: 1px solid #B8B7C1;
+  border-radius: 3px;
+  padding: 10px 25px;
+}
+.ProFi1 label {
+  margin-left: 10px;
+  margin-right: 30px;
+}
+.ProFi input {
+  width: 100%;
+}
+.ProFi input {
+  width: 100%;
+  height: 45px;
+  border-radius: 5px;
+  border: 1px solid #B8B7C1;
+  padding: 0.25rem 0.75em;
+  margin-bottom: 15px;
+}
+.ProFi label {
+  margin-top: 15px;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+.ProFiBtn button {
+  margin-top: 10px;
+  background: #107B38;
+  border: #107B38;
+  color: #fff;
+  padding: 10px 45px;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+.ProFiBtn hr {
+  margin-top: 25px;
+}
+.col-12.d-flex button {
+  margin-left: auto;
+  background: transparent;
+  border: none;
+  font-size: 18px;
+  font-weight: 600;
+}
+.ProFi select {
+  width: 100%;
+  height: 45px;
+  background: #fff;
+  border: 1px solid #B8B7C1;
+  border-radius: 5px;
+}
+.ProFi1 img {
+  border-radius: 50%;
+  height: 145px;
+  margin-bottom: 20px;
+}
+.ProFi1 i {
+  position: absolute;
+  margin-left: 90px;
+  font-size: 25px;
+  color: #fff;
+  background: #107B38;
+  padding-bottom: 9px !important;
+  padding: 0px 10px;
+  border-radius: 50%;
+}
+@media (min-width: 1200px) and (max-width: 1399px) {
+  .BookIcon.mb-2 {
+    padding-top: 9px;
+  padding-bottom: 21px;
+  }
+  .OrderTABle table tbody tr {
+    font-size: 13px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  .blueBox {
+    padding: 35px;
+  }
+  .OrderTABle table tbody tr {
+    font-size: 12px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .blueBox {
+    padding: 30px;
+  }
+  .progressss > span {
+    width: 53%;
+  }
+  .OrderTABle table tbody tr {
+    font-size: 12px;
+  }
+  .progressss .progress-right .progress-bar {
+    left: -100%;
+    border-top-left-radius: 99px;
+    border-bottom-left-radius: 99px;
+  }
+  .progressss {
+    width: 203px;
+  }
+  .flex-column.nav a {
+
+    font-size: 13px;
+  }
+  .BTNCerti {
+    margin-right: 10px;
+  }
+  .ProFi label {
+    font-size: 14px;
+  }
+}
+@media (min-width: 576px) and (max-width: 767px) {
+  .blueBox {
+    padding: 44px;
+  }
+  .OrderTABle {
+    margin-top: 28px;
+  }
+  .progressss {
+    width: 188px;
+  }
+  .BTNCerti {
+    margin-right: 10px;
+  }
+  .ProFi label {
+    font-size: 16px;}
+    .SuceSSBox {
+      margin-top: 20px;
+    }
+}
+@media (max-width: 575px) {
+  .blueBox {
+    padding: 20px 195px;
+  }
+  .BTNCerti {
+    margin-right: 10px;
+  }
+  .ButtONComp.d-flex.mb-3 {
+    justify-content: center;
+  }
+  .ProFi label {
+    font-size: 14px;
+  }
+  .SuceSSBox h5 {
+    font-size: 24px;
+  }
+}
+@media (max-width: 532px) {
+  .blueBox {
+    padding: 25px 161px;
+  }
+  .Direct.d-flex {
+    display: inline-block !important;
+  }
+  .SideContEnt {
+    margin-top: 25px;
+  }
+ 
+}
+@media (max-width: 480px) {
+  .blueBox {
+    padding: 25px 120px;
+  }
+  .ProFi label {
+    font-size: 13px;
+  }
+
+}
+@media (max-width: 413px) {
+  .blueBox {
+    padding: 25px 93px;
+  }
+}
+@media (max-width: 350px) {
+  .blueBox {
+    padding: 25px 53px;
+  }
+}
+
+

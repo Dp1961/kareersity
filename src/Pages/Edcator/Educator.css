@@ -1,0 +1,36 @@
+.eDUcAfo {
+    padding: 30px;
+    border: 1px solid #B8B7C1;
+    border-radius: 5px;
+  }
+  .EduCf input, .EduCf select {
+    width: 100%;
+    margin-bottom: 15px;
+    height: 42px;
+    border-radius: 5px;
+    border: 1px solid #B8B7C1;
+    padding: 0.25rem 0.75rem;
+    background-color: #fff;
+    color: #6F6B80;
+  }
+  .SIGBtn {
+    text-align: center;
+  }
+  .EduCf button {
+    background: #107B38;
+    color: #fff;
+    border: #107B38;
+    padding: 10px 50px;
+    font-size: 20px;
+    margin-top: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+  }
+  .EduCf {
+    margin-bottom: 10px;
+  }
+  .PageHEaders.edu{
+    background-image: url('../../assets/images/educpage.png');
+    min-height: 440px;
+  }

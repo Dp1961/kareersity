@@ -1,0 +1,140 @@
+.topBar {
+  box-shadow: 0px 3px 2px #dcdcfe;
+  padding: 7px;
+}
+
+.topBar {
+  width: 100%;
+  background: #fff !important;
+}
+
+.mainWrapper {
+  width: 100%;
+  display: flex;
+}
+
+.pull-left {
+  float: left;
+}
+
+.icon-headernav {
+  color: #212144;
+  font-size: 25px;
+  position: relative;
+}
+
+.button-header {
+  cursor: pointer;
+}
+
+.notification-dot {
+  height: 8px;
+  width: 8px;
+  background-color: #d3483d;
+  border-radius: 50%;
+  border: 1px solid white;
+  display: inline-block;
+  position: absolute;
+  top: 12px;
+  right: 4px;
+}
+
+.user {
+  height: 50px;
+  width: 50px;
+  background: aliceblue;
+  text-align: center;
+  padding: 1px 3px;
+  border-radius: 50%;
+  font-size: 23px;
+}
+.userDetail {
+  margin-left: 11px;
+  padding-top: 5px;
+}
+.userDetail h5 {
+  margin-bottom: 0;
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800 !important;
+}
+.userDetail h6 {
+  margin-bottom: 0;
+  font-size: 14px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600 !important;
+}
+.userDetails {
+  margin-left: 10px;
+}
+.wrapperleft h1 {
+  font-size: 26px;
+  padding-top: 11px;
+  text-transform: uppercase;
+}
+.icon-headernav {
+  background: #107B38;
+  color: #fff;
+  border-radius: 59px;
+  font-size: 30px;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+}
+
+/* .wrapperleft {
+  padding-left: 25px;
+} */
+
+/* Media query start */
+@media (min-width: 1440px) {
+}
+
+/* X-Large devices (large desktops, less than 1400px) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+}
+
+/* Large devices (desktops, less than 1200px) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .wrapperleft h1 {
+    font-size: 24px;
+    padding-top: 11px;
+    text-transform: uppercase;
+  }
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .wrapperleft h1 {
+    font-size: 22px;
+    padding-top: 11px;
+    text-transform: uppercase;
+  }
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+}
+
+/* X-Small devices (portrait phones, less than 576px) */
+@media (min-width: 0px) and (max-width: 575.98px) {
+  .wrapperleft h1 {
+    font-size: 26px;
+    padding-top: 11px;
+    text-transform: uppercase;
+  }
+}
+
+@media (min-width: 0px) and (max-width: 320px) {
+  .notification-dot {
+    height: 8px;
+    width: 8px;
+    background-color: #d3483d;
+    border-radius: 50%;
+    border: 1px solid white;
+    display: inline-block;
+    position: relative;
+    top: -9px;
+    left: -12px;
+  }
+}

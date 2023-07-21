@@ -1,0 +1,81 @@
+.Count {
+    text-align: center;
+    height: 150px;
+    color: #231F40;
+    font-family: 'Roboto', sans-serif;
+    padding: 10px;
+    padding-top: 40px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+.Count.OranGE {
+    background: #FCEDDD;
+    border: 1px solid #EE8E28;
+
+}
+
+.Count.BluE {
+    background: #DEFEFC;
+    border: 1px solid #23ACA4;
+}
+
+.Count.PuRp {
+    background: #F9DEFE;
+    border: 1px solid #DC7CEE;
+}
+
+.Count.YlW {
+    background: #FEFADE;
+    border: 1px solid #D4C55B;
+}
+
+.Count.GRn {
+    background: #E2FFED;
+    border: 1px solid #69D965;
+}
+
+.GrAphS {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 100%;
+    border: 1px solid #BCBAC4;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.Count.ReD {
+    background: #FEDEDE;
+    border: 1px solid #F24141;
+}
+
+.Count h3 {
+    font-size: 30px;
+}
+
+.Count h6 {
+    font-size: 20px;
+}
+
+canvas {
+    width: 100% !important;
+}
+.defalut {
+    position: absolute;
+  }
+  .dasHBoarDfilT {
+    text-align: right;
+    margin-right: auto;
+  }
+  .defalut .container {
+    box-shadow: none !important;
+   
+  }
+
+  /* media file */
+  @media (min-width: 768px) and (max-width: 991px) {
+    .GrAphS{
+        height: 370px !important;
+    }
+  }

@@ -1,0 +1,271 @@
+.Grn {
+    color: #107B38 !important;
+  }
+  .CourSEl li {
+    list-style: disc;
+  }
+  .css-1fdsijx-ValueContainer {
+    height: 55px;
+  }
+  .CorsELiSTab.pt-4.pb-4 {
+    background: #EEEBF6;
+    padding: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+  }
+  .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #fff;
+    background-color: #231F40 !important;
+    border-color: #231F40;
+    font-size: 18px;
+    width: 185px;
+    border-radius: 0;
+    margin-right: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+  }
+
+  .nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
+    isolation: isolate;
+    border-color: transparent;
+    background: #231F40;
+    border-color: #231F40;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    border-radius: 0;
+    font-size: 18px;
+
+  }
+  .nav-tabs .nav-link {
+    margin-bottom: 25px;
+    width: 197px;
+    margin-right: 25px;
+    border-radius: 0;
+    background: #EEEBF6;
+    color: #6F6B80;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    border: 1px solid #EEEBF6;
+  }
+ 
+  .nav-tabs{
+    border-bottom: transparent;
+  }
+  .CorsELiSTab form select {
+    width: 100%;
+    background: #fff;
+    border: 1px solid #B8B7C1;
+    height: 50px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  .CorsELiSTab form input {
+    width: 100%;
+    background: #fff;
+    border: 1px solid #B8B7C1;
+    height: 50px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  .CorsELiSTab form textarea {
+    width: 100%;
+    background: #fff;
+    border: 1px solid #B8B7C1;
+    height: 100px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  .CorsELiSTab form .ck.ck-editor {
+    width: 100%;
+    background: #fff;
+
+    margin-bottom: 20px;
+  }
+
+  .CorCountenT {
+    background: #fff;
+    margin-top: 25px;
+  }
+  .BluEBUTn {
+    background: #231F40;
+    color: #fff;
+    text-decoration: none;
+    padding: 11px 33px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    border-radius: 5px;
+  }
+  .DulBG {
+    justify-content: center;
+    background: #EEEBF6;
+    padding: 30px 15px;
+    font-family: 'Roboto', sans-serif;
+  }
+  .DuLLBg p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    color: #231F40;
+  }
+  .DuLLBg p span{
+    color: #6F6B80;
+  }
+  .AcBtN {
+    margin-left: auto;
+  }
+  .AcBtN button {
+    background: #DCDAE3;
+    border: 1px solid #B8B7C1;
+    padding: 10px 10px;
+    font-size: 15px;
+    margin-right: 11px;
+    border-radius: 5px;
+    color: #6F6B80;
+  }
+  .AcBtN.Wh button {
+    background: #fff;
+  }
+
+  .LeSSonSesion {
+    margin-bottom: 20px;
+    background: #fff;
+    padding: 10px;
+    border: 1px solid #B8B7C1;
+border-radius: 5px;
+  }
+  .LeSSonSesion p span {
+    color: #6F6B80;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+  }
+  .LeSSonSesion p  {
+    color: #231F40;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+  }
+  .CorsELiSTab {
+    background: #EEEBF6;
+    text-align: center;
+    padding: 75px;
+  }
+  .CoConTenT .Grn-Btnmanin {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .CorsELiSTab form {
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #6F6B80;
+  }
+  .CorsELiSTab  input[type=checkbox] {
+    width: auto;
+    cursor: pointer;
+}
+.TApadig {
+  padding-top: 12px;
+  margin-left: 19px;
+}
+.NotCa {
+  margin-top: -14px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+.NotCa span {
+  color: #B90719;
+}
+.CorsELiSTab.pt-4.pb-4 table tr td {
+  border-bottom: 1px solid #B8B7C1;
+  border-top: 1px solid #B8B7C1;
+  text-align: left;
+}
+.CorsELiSTab.pt-4.pb-4 table tr {
+  border-right: 1px solid #B8B7C1;
+}
+.CatCOlr {
+  color: #6F6B80 !important;
+}
+.CorsELiSTab.pt-4.pb-4 table tr td {
+  color: #231F40;
+}
+.PAdinGUl {
+  padding-left: 0;
+}
+.accordion-button:not(.collapsed) {
+  color: #6F6B80;
+  background-color: #fff;
+  box-shadow: inset 0 calc(-1 * var(--bs-accordion-border-width)) 0 var(--bs-accordion-border-color);
+}
+.AccCheck {
+  margin-left: 20px;
+}
+.accordion-item {
+  margin-bottom: 10px;
+}
+.CateGorTab table tbody tr {
+  background: #fff;
+}
+.assment-course.d-flex.mt-4 input {
+  width: 80%;
+  border-radius: 5px;
+  border: 1px solid #B8B7C1;
+}
+.assment-course.d-flex.mt-4 .Add-row {
+  background: #C7F7DA;
+  border: 1px solid #107B38;
+  margin-left: 10px;
+  padding: 5px 14px;
+  font-size: 28px;
+  color: #107B38;
+  margin-right: 10px;
+}
+.assment-course.d-flex.mt-4 .del-row {
+  background: #F8D9D9;
+  border: 1px solid #AB0A0A;
+  padding: 5px 17px;
+  font-size: 24px;
+  color: #AB0A0A;
+}
+.Edit-tool {
+  margin-left: 38%;
+  font-size: 23px;
+}
+.Edit-tool i {
+  background: #DCDAE3;
+  margin-right: 10px;
+  padding: 5px;
+  border-radius: 5px;
+}
+.assment-course label {
+  color: #6F6B80;
+}
+/* media */
+@media (min-width: 992px) and (max-width: 1199px) {
+  .Grn-Btnmanin a {
+    padding: 11px 8px;
+    font-size: 15px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  table tr td.d-flex {
+    width: 133px !important;
+  }
+  .Half {
+    width: 99% !important;
+    margin-left: 0;
+    margin-right: 5px;
+  }
+  .modal-body {
+    padding: 48px 20px;
+  }
+  .Grn-Btnmanin a {
+    padding: 11px 8px;
+    font-size: 15px;
+  }
+  .BluEBUTn {
+
+    padding: 11px 7px;
+  }
+}

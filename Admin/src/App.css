@@ -1,0 +1,236 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+/* Global css */
+h1,
+h2,
+h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  color: #231F40;
+}
+h4,
+h5,
+h6 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  color: #231F40;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 27px;
+}
+
+.head-title h2 {
+  font-family: "Patua One", cursive;
+  margin-bottom: 0;
+  font-size: 30px;
+}
+
+.commonBtn {
+  background-color: #d3483d !important;
+  border-radius: 4px;
+  color: white !important;
+  border: none;
+}
+
+.fntmons {
+  font-family: "Montserrat", sans-serif;
+}
+
+
+
+
+.main-container {
+  display: flex;
+}
+main {
+  width: 100%;
+  height: 100vh;
+  overflow-y: scroll;
+  background: #E9FBF3;
+}
+
+.title {
+  font-size: 3rem;
+  display: grid;
+  place-items: center;
+}
+
+/* Sidebar */
+.sidebar {
+  background: #231F40 0% 0% no-repeat padding-box;
+  color: white;
+  height: 100vh;
+  overflow-y: scroll !important;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.top_section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 10px;
+  transition: 0 !important;
+  cursor: pointer;
+  margin-bottom: 30px;
+}
+
+.logo {
+  font-size: 18px;
+  line-height: 0;
+}
+
+.bars {
+  width: 30px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 20px;
+}
+.hide {
+  display: none;
+}
+
+.routes {
+  margin-top: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.link {
+  display: flex;
+  color: white;
+  gap: 10px;
+  padding: 10px 10px;
+  border-right: 4px solid transparent;
+  transition: 0.1s cubic-bezier(0.6, -0.28, 0.735, 0.045);
+  text-decoration: none;
+}
+
+.link:hover {
+  background: #3D376A;
+  color: white;
+}
+
+.active {
+  background: #3D376A !important;
+}
+
+.active:hover {
+
+  background: #3D376A !important;
+}
+
+.link_text {
+  white-space: nowrap;
+  font-size: 15px;
+  align-self: flex-end;
+  margin-top: 3px !important;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+
+}
+
+.icon {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.anticon {
+  font-size: 20px;
+}
+
+.menu {
+  display: flex;
+  color: white;
+  padding: 5px 10px;
+  border-right: 4px solid transparent;
+  transition: 0.2s cubic-bezier(0.6, -0.28, 0.735, 0.045);
+  justify-content: space-between;
+  align-items: end;
+}
+.menu_item {
+  display: flex;
+  gap: 10px;
+}
+.menu_container {
+  display: flex;
+  flex-direction: column;
+}
+.menu_container .link {
+  padding-left: 25px;
+  /* border-bottom: #fff 0.5px solid; */
+}
+
+.table > :not(:last-child) > :last-child > * {
+  border-bottom-color: transparent !important;
+}
+
+.element-with-scroll {
+  overflow-y: scroll;
+  scrollbar-width: none !important;
+  -ms-overflow-style: none !important;
+}
+
+.element-with-scroll::-webkit-scrollbar {
+  display: none !important;
+}
+
+select {
+  cursor: pointer;
+  padding-left:8px;
+}
+.PageTit {
+  background: transparent linear-gradient(180deg, #E4FFEE 0%, #B1F5CA 100%);
+  height: 170px;
+  padding: 30px 25px;
+}
+.PageTit p a {
+  color: #231F40;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+.PageTit p i {
+  color: #231F40;
+ 
+}
+.Grn-Btnmanin button {
+  font-size: 15px;
+}
+@media (min-width: 0px) and (max-width: 575px) {
+  /* Sidebar */
+  .sidebar {
+    background: rgb(0, 7, 61);
+    color: white;
+    height: auto !important;
+    overflow-y: auto;
+  }
+}
+
+
+@media (min-width:0px) and (max-width:320px){
+  .addFs{
+    font-size: 10px;
+  }
+
+  .textName{
+    font-size: 18px !important;
+  }
+  
+}

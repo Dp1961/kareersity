@@ -1,0 +1,71 @@
+.ant-menu.ant-menu-root.ant-menu-vertical.ant-menu-light.css-dev-only-do-not-override-mxhywb {
+  background: #212144;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  overflow: hidden;
+  overflow-y: scroll;
+  /* height: 148vh !important; */
+  white-space: nowrap;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.contentSide {
+  width: 100%;
+}
+:where(.css-dev-only-do-not-override-mxhywb).ant-menu-light
+  .ant-menu-item-selected {
+  background: #d3483d !important;
+  color: #fff;
+  border-radius: 0 !important;
+}
+:where(.css-dev-only-do-not-override-mxhywb).ant-menu-light:not(
+    .ant-menu-horizontal
+  )
+  .ant-menu-item:not(.ant-menu-item-selected):hover {
+  background-color: #d3483d !important;
+  color: #fff;
+}
+:where(.css-dev-only-do-not-override-mxhywb).ant-menu .ant-menu-item,
+:where(.css-dev-only-do-not-override-mxhywb).ant-menu .ant-menu-submenu,
+:where(.css-dev-only-do-not-override-mxhywb).ant-menu .ant-menu-submenu-title {
+  border-radius: 0 !important;
+}
+
+:where(.css-dev-only-do-not-override-mxhywb).ant-layout-header {
+  position: absolute;
+  top: -5px;
+  margin-left: 12px;
+  margin-right: 20px;
+  font-size: 23px;
+}
+.logo {
+  background: #212144;
+  padding-bottom: 20px;
+  text-align: center;
+}
+:where(.css-dev-only-do-not-override-mxhywb).ant-menu
+  .ant-menu-item
+  .ant-menu-item-icon,
+:where(.css-dev-only-do-not-override-mxhywb).ant-menu
+  .ant-menu-submenu-title
+  .ant-menu-item-icon {
+  font-size: 20px;
+}
+
+
+
+
+ 
+
+
+@media (min-width: 0px) and (max-width: 575px) {
+  .logoWidth {
+    width: 51px;
+    margin-top: 10px;
+  }
+}
+
+.bars {
+  cursor: pointer !important;
+}

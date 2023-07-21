@@ -1,0 +1,11 @@
+.RejBtn {
+    width: 100px;
+    padding: 5px;
+    background: #DCDAE3;
+    border: 1px solid #6F6B80;
+  }
+  @media (min-width: 768px) and (max-width: 991px) {
+    .Grn-Btn {
+      font-size: 17px;
+  }
+}

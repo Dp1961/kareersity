@@ -1,0 +1,13 @@
+.modal-body select {
+    width: 100%;
+    height: 44px;
+    background: #fff;
+    border: 1px solid #B8B7C1;
+    border-radius: 5px;
+  }
+  .ddFlAR {
+    width: 95px;
+  }
+  .hidden-list.Ar {
+    width: 175px;
+  }

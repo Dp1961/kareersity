@@ -1,0 +1,18 @@
+.BtNSSearcH.pur button {
+    font-size: 15px;
+}
+
+.WhitBg {
+    background: #fff;
+    margin-left: 15px;
+    padding: 10px 8px;
+    border-radius: 5px;
+    border: 1px solid #B8B7C1;
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -2px;
+}
+
+.WhitBg label {
+    padding-left: 8px;
+}
